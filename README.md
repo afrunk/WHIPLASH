@@ -8,7 +8,7 @@ Learn for me!
 自己的一些记录 一些小技巧 小方法
 
 ## Books
-- 《黑客与画家》
+- [《黑客与画家》](https://github.com/afrunk/WHIPLASH/blob/master/Books/%E3%80%8A%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%E3%80%8B.md)
 
 ## 互联网大事记
 ### 9月
