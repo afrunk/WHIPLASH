@@ -6,3 +6,6 @@ Learn for me!
 
 ## TechnicalThinking
 自己的一些记录 一些小技巧 小方法
+
+## Books
+- 《黑客与画家》
