@@ -49,6 +49,7 @@
 
 ### 不学习框架就不能够在web上动态展示可视化？
 [参考文章](https://blog.csdn.net/belldeep/article/details/79340156)<br>
+[目标站点](http://pearsearch.org/technology.html)<br>
 为什么不能直接写好点的html+css页面呢？这样的话不就不需要研究这么多的东西了？直接就可以写出来动态可视化的页面，这个都不需要mysql，直接mongodb就可以写出来。然后将爬虫脚本嵌入到页面里面，不同的分页展示不同的可视化效果，哇，我真的是个天才，他们的框架不都是这么积累出来的。
 
 #### 配合django写
