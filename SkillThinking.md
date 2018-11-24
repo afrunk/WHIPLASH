@@ -1,6 +1,8 @@
 # SkillThinking
 本文是在各大技术博客上吸收或借鉴到的一些关于职业规划或者搜索技巧或者实现方法的一些总结，更多的是希望自己也可以在时间的长河中不仅仅是增长的技术，还有自己的认知。
 ## 零：书目
+* [《黑客与画家》](https://github.com/afrunk/WHIPLASH/blob/master/Books/%E3%80%8A%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%E3%80%8B.md)<br>
+* [《暗时间》](https://github.com/afrunk/WHIPLASH/blob/master/Books/%E3%80%8A%E6%9A%97%E6%97%B6%E9%97%B4%E3%80%8B.md)
 * 《定位》
 * 《第一本无人驾驶技术书》
 * 《现在，发现你的优势》
